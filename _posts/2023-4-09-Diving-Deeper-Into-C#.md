@@ -224,5 +224,7 @@ For this blog post I have created a program for a bike shop that will allow the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qJxPkjNIRRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+[Repository](https://github.com/emclaughlin5/BikeShop)
+
 ### Conclusion
 I hope you have enjoyed my blog posts and learned something new about C# and Object Oriented Programming. If you want to extend your knowledge further I would recommend using the main resource I used, it has a lot more than I could reasonably include in a couple blog posts. It can be found [here](https://github.com/Almantask/CSharp-From-Zero-To-Hero).
