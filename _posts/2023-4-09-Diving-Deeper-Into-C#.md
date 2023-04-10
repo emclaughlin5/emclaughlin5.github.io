@@ -222,7 +222,7 @@ Typically C# developers will almost never use "ref", "in" or "out" but they are 
 ### Demonstration
 For this blog post I have created a program for a bike shop that will allow the user to enter a number of invoices into the program and display their current invoice, save their invoice to a list and save that list of invoices to a file. Also to read a list of invoices from a file. And to display the list of invoices in a table.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qJxPkjNIRRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Video Demonstration](https://www.youtube.com/watch?v=qJxPkjNIRRs)
 
 [Repository](https://github.com/emclaughlin5/BikeShop)
 
